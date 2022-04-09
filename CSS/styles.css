@@ -1,0 +1,70 @@
+body {
+  font-family: "outfit";
+  /* font-size: 16px; */
+  background-color: hsl(225, 100%, 94%);
+}
+
+.attribution {
+  font-size: 16px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.order {
+  width: 350px;
+  border-radius: 15px;
+}
+
+.order-head {
+  padding: 0;
+}
+
+.order-body {
+  text-align: center;
+  padding-top: 35px;
+
+  /* padding-bottom: 25px; */
+}
+
+.hero {
+  width: 100%;
+  border-radius: 15px 15px 0 0;
+}
+
+.price {
+  display: flex;
+  /* justify-content: space-between; */
+  background-color: hsl(225, 100%, 98%);
+  border-radius: 15px;
+  padding-left: 5px;
+  padding-top: 5px;
+}
+
+.change {
+  padding-left: 90px;
+}
+
+.music {
+  width: 30px;
+  height: 50px;
+}
+
+.cancel {
+  color: hsl(224, 23%, 55%);
+}
+
+.para {
+  font-size: 16px;
+  color: hsl(224, 23%, 55%);
+}
+
+.proceed:hover{
+  background-color:  hsl(224, 23%, 55%);
+}
+
+.change:hover{
+  color:hsl(225, 23%, 55%);
+}
